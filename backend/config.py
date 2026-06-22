@@ -17,7 +17,7 @@ class Settings(BaseSettings):
         "https://rait-acm-kopiko.vercel.app",
         "https://rait-acm-kopiko.vercel.app/",
         "100.106.76.121:4000",
-        "https://oraclevps-20260211-2103.tail285fb1.ts.net",
+        "https://bhoomi-rouge.vercel.app",
     ]
 
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
