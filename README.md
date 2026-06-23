@@ -1,5 +1,8 @@
 # Bhoomi - Made by Team Kopiko
 
+https://github.com/user-attachments/assets/815a33c0-a2aa-427c-b696-ab68a2c348ff
+
+
 Welcome to the **Bhoomi** repository! This project is a comprehensive, farmer-facing application designed to empower agricultural decision-making. It features a robust FastAPI-based backend and a Nuxt.js-based frontend.
 
 ## What It Does & Why It's Important
